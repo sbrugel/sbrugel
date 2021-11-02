@@ -5,4 +5,6 @@ Salut, I'm Simon. I like to write programs that solve problems, whether it's som
 
 You'll see many of my personal and academic projects here, varying in purpose and language. Some are meant for public use while others are experimental or for learning purposes. Feel free to take a dig around.
 
+The downloads for released projects are best accessed [here](https://sbrugel.github.io/projects.html), mainly for accessing web applications. (executables for applicable projects are also available on GitHub, under their respective release sections)
+
 More information about me (mainly in the general sense) is available [here](https://sbrugel.github.io/about-me.html).
