@@ -1,10 +1,21 @@
-[![sbrugel's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sbrugel&showicons=true&count_private=true&theme=react)]()
-[![sbrugel's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrugel&langs_count=5&layout=relative&theme=discord_old_blurple)]()
+# Hello World! My name is Simon.
+I'm a computer science enthusiast who also majors in the subject at the University of Delaware, currently concentrating in Artifical Intelligence & Robotics. My eventual goal is to work in software development and/or AI - two areas that catch my interest and truly fascinate me. 
 
-Salut, I'm Simon. I like to write programs that solve problems, whether it's something to make life a bit less tedious or to automate an otherwise extreme task, along other things. My main languages are above, but I'm more than willing to learn more!
+In particular, I enjoy creating GUI-based utilities (mainly using the .NET framework), web applications/pages, and much more - including Discord bot development using NodeJS.
 
-You'll see many of my personal and academic projects here, varying in purpose and language. Some are meant for public use while others are experimental or for learning purposes. Feel free to take a dig around.
+## My current programming/markdown languages
+In no particular order:
+- C#
+- Java
+- JavaScript (and TypeScript)
+- Python
+- HTML
+- CSS
+- NodeJS
 
-The downloads for released projects are best accessed [here](https://sbrugel.github.io/projects.html), mainly for accessing web applications. (executables for applicable projects are also available on GitHub, under their respective release sections)
+I'm always happy to learn more languages and applications of programming!
 
-More information about me (mainly in the general sense) is available [here](https://sbrugel.github.io/about-me.html).
+## Other links
+View my website [here](https://sbrugel.github.io/)
+
+Send me an email [here](mailto:sbrugel@udel.edu)
