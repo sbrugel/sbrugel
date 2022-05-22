@@ -6,7 +6,7 @@ I'm a Computer Science B.S. major at the University of Delaware, currently conce
 ## My experiences
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrugel&layout=compact)](https://github.com/sbrugel/github-readme-stats)
 
-**Experienced in ** C#, Java, JavaScript, TypeScript, Python, HTML, CSS, NodeJS.
+Experienced in C#, Java, JavaScript, TypeScript, Python, HTML, CSS, NodeJS.
 I am also currently learning C, C++, and React.
 
 ## My main projects
