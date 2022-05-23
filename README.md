@@ -1,13 +1,12 @@
-View my website [here](https://sbrugel.github.io/) || Send me an email [here](mailto:sbrugel@udel.edu)
+[**Website**](https://sbrugel.github.io/) || [**Email**](mailto:sbrugel@udel.edu)
 
 # Hello
-I'm a Computer Science B.S. major at the University of Delaware, currently concentrating in Artifical Intelligence & Robotics. I enjoy programming and strive to learn as much as I can at every opportunity.
+I'm a Computer Science B.S. major at the University of Delaware, currently concentrating in Artifical Intelligence & Robotics.
 
 ## My experiences
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbrugel&layout=compact)](https://github.com/sbrugel/github-readme-stats)
+**Experienced in C#, Java, JavaScript, TypeScript, Python, HTML, CSS, NodeJS.**
 
-Experienced in C#, Java, JavaScript, TypeScript, Python, HTML, CSS, NodeJS.
-I am also currently learning C, C++, and React.
+*Currently learning C, C++, and React.*
 
 ## My main projects
 ### [Sage](https://github.com/ud-cis-discord/SageV2)
