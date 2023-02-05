@@ -6,6 +6,13 @@ I'm a sophomore at the University of Delaware, pursuing my bachelor's degree in 
 ## My experiences
 **Proficient in C#, Java, JavaScript, TypeScript, Python, HTML, CSS.** I also have experience with C, C++, Bootstrap, React, and the Unity game engine.
 
+## What I'm working on
+**Currently learning:** Logic for Programming, Algorithms, Operating Systems
+
+In my spare time, I'm working on different projects in C++, C#, Python and JS/React
+
+I'm also a teaching assistant for CISC181, an introductory Java/OOP class
+
 ## My main projects
 ### [Sage](https://github.com/ud-cis-discord/SageV2)
 Written in TypeScript, this is a Discord bot for the University of Delaware Computer Science Department's official Discord server. It has many features, including the abilities to ask private questions related to coursework and create polls in chat. It is used by 2500+ students and 25+ professors at the university.
@@ -19,4 +26,4 @@ Written in C#, a Windows Forms application that allows the user to write journal
 ### [img2pi](https://github.com/sbrugel/img2pi)
 Written in Python and C, these two scripts take an image, pixelate it down to 8x8, and displays it on an 8 tile by 8 tile Sense Hat of a Raspberry Pi.
 
-*Last update: November 5th, 2021*
+*Last update: 5 Feb 2023*
