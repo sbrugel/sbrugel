@@ -1,17 +1,17 @@
 [**Website**](https://sbrugel.github.io/) || [**Email**](mailto:sbrugel@udel.edu) || [**LinkedIn**](https://www.linkedin.com/in/sbrugel/)
 
 # Hello
-I'm a sophomore at the University of Delaware, pursuing my bachelor's degree in Computer Science (with a focus in Artifical Intelligence & Robotics).
+I'm a rising junior at the University of Delaware, pursuing my bachelor's degree in Computer Science (with a focus in Artifical Intelligence & Robotics).
 
 ## My experiences
 **Proficient in C#, Java, JavaScript, TypeScript, Python, HTML, CSS.** I also have experience with C, C++, Bootstrap, React, Express.js, and the Unity game engine.
 
+I have been a TA for CISC 181, a class at UD which introduces students to Java, OOP, and unit testing.
+
 ## What I'm working on
-**Currently learning:** Logic for Programming, Algorithms, Operating Systems
+**Currently interning as a software developer! `:D`** When I return to UD in the fall, I will be taking Automata Theory and Artificial Intelligence, as well as learning more about Software Engineering
 
-In my spare time, I'm working on different projects in C++, C#, Python and JS/React
-
-I'm also a teaching assistant for CISC181, an introductory Java/OOP class
+In my spare time, I'm working on different projects in C++, C#, Python and JS/TS
 
 ## My main projects
 ### [Sage](https://github.com/ud-cis-discord/SageV2)
@@ -26,4 +26,4 @@ Written in C#, a Windows Forms application that allows the user to write journal
 ### [img2pi](https://github.com/sbrugel/img2pi)
 Written in Python and C, these two scripts take an image, pixelate it down to 8x8, and displays it on an 8 tile by 8 tile Sense Hat of a Raspberry Pi.
 
-*Last update: 30 Apr 2023*
+*Last update: 22 May 2023*
