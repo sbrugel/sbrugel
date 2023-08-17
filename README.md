@@ -1,17 +1,18 @@
 [**Website**](https://sbrugel.github.io/) || [**Email**](mailto:sbrugel@udel.edu) || [**LinkedIn**](https://www.linkedin.com/in/sbrugel/)
 
 # Hello
-I'm a rising junior at the University of Delaware, pursuing my bachelor's degree in Computer Science (with a focus in Artifical Intelligence & Robotics).
-
-## My experiences
-**Proficient in C#, Java, JavaScript, TypeScript, Python, HTML, CSS.** I also have experience with C, C++, Bootstrap, React, Express.js, and the Unity game engine.
-
-I have been a TA for CISC 181, a class at UD which introduces students to Java, OOP, and unit testing.
+I'm a junior at the University of Delaware, pursuing my bachelor's degree in Computer Science (with a focus in Artifical Intelligence & Robotics).
 
 ## What I'm working on
-**Currently interning as a software developer! `:D`** When I return to UD in the fall, I will be taking Automata Theory and Artificial Intelligence, as well as learning more about Software Engineering
+I recently finished a software development summer internship, now returning to my studies at UD.
+- Taking **Software Engineering**, **Automata Theory**, and **Artifical Intelligence**
+- **TAing for CISC304 (Logic for Programming)** which teaches propositional/predicate logic, natural deduction, and resolution
+- In my spare time, **working on different projects in C++, C#, Python and JS/TS**
 
-In my spare time, I'm working on different projects in C++, C#, Python and JS/TS
+## My experiences
+**Proficient in C#, Java, JavaScript, TypeScript, Python, HTML, CSS, React, Express.js.** I also have experience with C, C++, Bootstrap, and the Unity game engine.
+
+Tools I have experience in include Git/GitHub, Subversion, Visual Studio, Visual Studio Code, JetBrains, and Jenkins
 
 ## My main projects
 ### [Sage](https://github.com/ud-cis-discord/SageV2)
@@ -23,7 +24,4 @@ Written in JavaScript + React/Express, this is a full-stack, social-media like s
 ### [Journal Manager](https://github.com/sbrugel/Journal-Manager)
 Written in C#, a Windows Forms application that allows the user to write journal entries, save them locally, and view them later. Features basic rich text formatting (using tags).
 
-### [img2pi](https://github.com/sbrugel/img2pi)
-Written in Python and C, these two scripts take an image, pixelate it down to 8x8, and displays it on an 8 tile by 8 tile Sense Hat of a Raspberry Pi.
-
-*Last update: 22 May 2023*
+*Last update: 16 Aug 2023*
