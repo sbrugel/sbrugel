@@ -4,17 +4,18 @@
 I'm a junior at the University of Delaware, pursuing my bachelor's degree in Computer Science (with a focus in Artifical Intelligence & Robotics).
 
 ## What I'm working on
-I recently finished a software development summer internship, now returning to my studies at UD.
-- Taking **Software Engineering**, **Automata Theory**, and **Artifical Intelligence**
-- **TAing for CISC304 (Logic for Programming)** which teaches propositional/predicate logic, natural deduction, and resolution
-- In my spare time, **working on different projects in C++, C#, Python and JS/TS**
+Winter break \o/ Will mainly be working on various projects in TypeScript and Python!
 
-## My experiences
-**Proficient in C#, Java, JavaScript, TypeScript, Python, HTML, CSS, React, Express.js.** I also have experience with C, C++, Bootstrap, and the Unity game engine.
+From next Spring, I will be taking **Computers, Ethics, & Society**, **Parallel Computing**, **Database Systems**, and **Machine Learning**
 
-Tools I have experience in include Git/GitHub, Subversion, Visual Studio, Visual Studio Code, JetBrains, and Jenkins
+## Experience
+**Languages/Frameworks:** C#, Java, JavaScript, TypeScript, Python, HTML, CSS, C, C++, NodeJS, React, Bootstrap, Express, .NET, ASP.NET, Unity
 
-## My main projects
+**Tools/Misc**: Git, GitHub, Subversion, Jenkins, REST APIs, MongoDB, Flood Element, Swagger, Visual Studio, Visual Studio Code, JetBrains, Windows, Linux, Bash
+
+**Coursework**: Data Structures, Machine Organization & Assembly Language, Software Engineering, Logic for Programming, Algorithms, Operating Systems, Artificial Intelligence
+
+## Projects
 ### [Sage](https://github.com/ud-cis-discord/SageV2)
 Written in TypeScript, this is a Discord bot for the University of Delaware Computer Science Department's official Discord server. It has many features, including the abilities to ask private questions related to coursework and create polls in chat. It is used by 2500+ students and 25+ professors at the university.
 
@@ -24,4 +25,6 @@ Written in JavaScript + React/Express, this is a full-stack, social-media like s
 ### [Journal Manager](https://github.com/sbrugel/Journal-Manager)
 Written in C#, a Windows Forms application that allows the user to write journal entries, save them locally, and view them later. Features basic rich text formatting (using tags).
 
-*Last update: 16 Aug 2023*
+> *And more! Check out my **Repositories** for the full list of projects I've worked on :)*
+
+*Last update: 12 Dec 2023*
