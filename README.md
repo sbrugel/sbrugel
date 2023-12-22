@@ -15,7 +15,7 @@ From this coming Spring:
 
 **Tools/Misc**: Git, GitHub, Subversion, Jenkins, REST APIs, MongoDB, Flood Element, Swagger, Visual Studio, Visual Studio Code, JetBrains, Windows, Linux, Bash
 
-**Coursework**: Data Structures, Machine Organization & Assembly Language, Software Engineering, Logic for Programming, Algorithms, Operating Systems, Artificial Intelligence
+**Coursework**: Data Structures, Machine Organization & Assembly Language, Software Engineering, Logic for Programming, Algorithms, Operating Systems, Parallel Computing, Database Systems, Artificial Intelligence, Machine Learning
 
 ## Projects
 ### [Sage](https://github.com/ud-cis-discord/SageV2)
