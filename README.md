@@ -4,9 +4,11 @@
 I'm a junior at the University of Delaware, pursuing my bachelor's degree in Computer Science (with a focus in Artifical Intelligence & Robotics).
 
 ## What I'm working on
-Winter break \o/ Will mainly be working on various projects in TypeScript and Python!
+Side projects in TypeScript and Python (primarily)
 
-From next Spring, I will be taking **Computers, Ethics, & Society**, **Parallel Computing**, **Database Systems**, and **Machine Learning**
+From this coming Spring:
+- Taking **Computers, Ethics, & Society**, **Parallel Computing**, **Database Systems**, and **Machine Learning**
+- **TAing for CISC275 (Software Engineering)** which teaches TypeScript/React, Agile, and team-based software development
 
 ## Experience
 **Languages/Frameworks:** C#, Java, JavaScript, TypeScript, Python, HTML, CSS, C, C++, NodeJS, React, Bootstrap, Express, .NET, ASP.NET, Unity
@@ -27,4 +29,4 @@ Written in C#, a Windows Forms application that allows the user to write journal
 
 > *And more! Check out my **Repositories** for the full list of projects I've worked on :)*
 
-*Last update: 12 Dec 2023*
+*Last update: 22 Dec 2023*
