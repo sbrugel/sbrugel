@@ -1,25 +1,26 @@
 [**Website**](https://sbrugel.github.io/) || [**Email**](mailto:sbrugel@udel.edu) || [**LinkedIn**](https://www.linkedin.com/in/sbrugel/)
 
 # Hello
-I'm a junior at the University of Delaware with a passion for computer science, especially software engineering and AI!
+I am a senior computer science undergrad at the University of Delaware. My specialty is software engineering and full-stack development, though I've also worked in systems programming, data science/machine learning, and human-computer interaction.
 
 ## What I'm working on
-- Taking **Computers, Ethics, & Society**, **Parallel Computing**, **Database Systems**, and **Machine Learning**
-- **TAing for CISC275 (Software Engineering)** which teaches TypeScript/React, Agile, and team-based software development
+- Currently interning at **WTS Paradigm** as a software developer :)
+- In the fall, I will be taking **Computer Vision**, **Data Mining**, and **Computer Science Senior Design**
+- Some other data science projects on the side
 
 ## Experience
 **Languages/Frameworks:** C#, Java, JavaScript, TypeScript, Python, HTML, CSS, C, C++, SQL, NodeJS, React, Bootstrap, Express, .NET, ASP.NET, Unity
 
-**Tools/Misc**: Git, GitHub, Subversion, Jenkins, REST APIs, MongoDB, Flood Element, Swagger, Visual Studio, Visual Studio Code, JetBrains, Windows, Linux, Bash
+**Tools/Misc**: Windows, Linux, Git, GitHub, Subversion, MongoDB, REST APIs, Swagger, FloodElement, Visual Studio, Visual Studio Code, JetBrains, Bash, Jenkins
 
 **Coursework**: Data Structures, Assembly & Machine Organization, Software Engineering, Automata Theory, Logic for Programming, Algorithms, Operating Systems, Parallel Computing, Databases, Artificial Intelligence, Machine Learning, Technical Writing, Calculus, Discrete Math, Statistics, Linear Algebra
 
 ## Projects
 ### [Sage](https://github.com/ud-cis-discord/SageV2)
-Written in TypeScript, this is a Discord bot for the University of Delaware Computer Science Department's official Discord server. It has many features, including the abilities to ask private questions related to coursework and create polls in chat. It is used by 2500+ students and 25+ professors at the university.
+Written in TypeScript, a Discord bot for the University of Delaware Computer Science Department's official Discord server. Many features including the abilities to ask private questions related to coursework and create polls in chat. It is used by 3000+ students and 30+ professors at the university.
 
-### [GO-DE](https://github.com/sbrugel/go-de)
-Written in JavaScript + React/Express, this is a full-stack, social-media like web application where registered users aim to visit all Delaware landmarks, sharing their activity with followers and being able to track their progress. I created it with [Laura Lewis](https://github.com/craftablescience) and [Paul Kearney](https://github.com/paulke2) in 24 hours (14-16 not including sleep!) for the 2023 HenHacks Hackathon - it was a lot of fun! You can read more about it on the project's [DevPost page.](https://devpost.com/software/go-de)
+### [SpeedySolvers](https://github.com/sbrugel/SpeedySolvers)
+A full-stack React app where users aim to solve math problem sets as fast as possible; features a problem set creation interface, leaderboards, and a tutoring forum. 2024 HenHacks Hackathon submission, worked on with a four-person team in 24 hours.
 
 ### [Journal Manager](https://github.com/sbrugel/Journal-Manager)
 Written in C#, a Windows Forms application that allows the user to write journal entries, save them locally, and view them later. Features basic rich text formatting (using tags).
@@ -29,4 +30,4 @@ Two AI-centric projects written in Python! One solves mazes using the A* algorit
 
 > *And more! Check out my **Repositories** for the full list of projects I've worked on :)*
 
-*Last update: 3 Feb 2024*
+*Last update: 22 May 2024*
